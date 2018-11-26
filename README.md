@@ -1,4 +1,6 @@
 # KubeGene Docs
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fkubegene-website.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fkubegene-website?ref=badge_shield)
+
 
 This repository contains the source code for the [kubegene.io](https://kubegene.io/).
 
@@ -96,3 +98,7 @@ Useful Hugo docs:
 - [Hugo site directory structure](https://gohugo.io/getting-started/directory-structure/)
 - [hugo server reference](https://gohugo.io/commands/hugo_server/)
 - [hugo new reference](https://gohugo.io/commands/hugo_new/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fkubegene-website.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkevin-wangzefeng%2Fkubegene-website?ref=badge_large)
