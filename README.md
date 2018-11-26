@@ -63,7 +63,7 @@ brew install hugo
 Follow the usual GitHub workflow to fork the repo on GitHub and clone it to your
 local machine, then use your local repo as input to your Hugo web server:
 
-1. **Fork** the [kubegene/docs repo](https://github.com/kubegene/kubegene-website) in the GitHub UI.
+1. **Fork** the [kubegene/docs repo](https://github.com/kubegene/website) in the GitHub UI.
 1. Clone your fork locally. This example uses SSH cloning:
 
     ```
