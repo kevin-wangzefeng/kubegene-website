@@ -69,12 +69,12 @@ local machine, then use your local repo as input to your Hugo web server:
     ```
     mkdir kubegene.io
     cd kubegene.io/
-    git clone git@github.com:<your-github-username>/kubegene-website.git
-    cd kubegene-website/
+    git clone git@github.com:<your-github-username>/website.git
+    cd website/
     ```
 
 1. Start your website server. Make sure you run this command from the
-   `/kubegene-website/` directory, so that Hugo can find the config files it needs:
+   `/website/` directory, so that Hugo can find the config files it needs:
 
     ```
     hugo server -D
